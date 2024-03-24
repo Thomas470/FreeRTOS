@@ -1,4 +1,4 @@
-# FreeRTOS
+# FreeRTOS Activity
 Implementation of a program in FreeRTOS intended for medical equipment that must measure heart rate, oxygen saturation and fever;
 
 Context: To help combat the Covid-19 Pandemic, the medical equipment research center is inviting you to help develop a monitor for patients' vital data. The monitor must record the patient's heartbeat (consider between 20 and 140 heartbeats - below 50 a high heartbeat message, above 90 a high heartbeat message), oxygen saturation level (consider oxygenation between 80% and 100% - below 90% low saturation message) in blood and temperature (consider a temperature of 34° to 41° - below 35° present a hypothermia message, above 37.5° a fever message).
